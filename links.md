@@ -7,7 +7,7 @@ https://camunda.com/solutions/microservices-orchestration/ - Overview w/Whitepap
 ### Blog series by Simon Zambrovski
 https://medium.com/holisticon-consultants/
 
-https-medium-com-zambrovski-distributed-orchestration-with-camunda-bpm-part-1-f03aa6d2b99f
+https://medium.com/holisticon-consultants/https-medium-com-zambrovski-distributed-orchestration-with-camunda-bpm-part-1-f03aa6d2b99f
 
 https://medium.com/holisticon-consultants/distributed-orchestration-with-camunda-bpm-part-2-9a6d54389184
 
