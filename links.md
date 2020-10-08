@@ -18,10 +18,12 @@ https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-
 
 ## Technology
 
-### Custom Tasklist
+### Tasklist
 https://camunda.com/blog/2019/04/using-react-forms-with-tasklist/
 
 https://camunda.com/blog/2018/02/custom-tasklist-examples/
+
+https://www.holunda.io/camunda-bpm-taskpool/
 
 
 ### Email Integration:
@@ -35,4 +37,9 @@ https://github.com/camunda/camunda-bpm-mail - Community Extension for Email Inte
 https://accso.de/magazin/camunda-keycloak/
 
 https://github.com/camunda/camunda-bpm-identity-keycloak
+
+
+### Process Variables
+http://www.holunda.io/camunda-bpm-data/
+
 
